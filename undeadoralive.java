@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/undeadoralive
 import java.util.Scanner;
 
 public class undeadoralive {
