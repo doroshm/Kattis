@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/easiest
 import java.util.Scanner;
 
 public class easiest {
