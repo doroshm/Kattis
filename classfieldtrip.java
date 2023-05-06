@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/classfieldtrip
 import java.util.Scanner;
 
 public class classfieldtrip {
