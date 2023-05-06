@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/cutthenegativity
 import java.util.*;
 
 public class cutthenegativity {
