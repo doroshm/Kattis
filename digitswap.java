@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/digitswap
 import java.util.Scanner;
 
 public class digitswap {
