@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/speedlimit
 import java.util.Scanner;
 
 public class speedlimit {
