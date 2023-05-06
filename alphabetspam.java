@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/alphabetspam
 import java.util.Scanner;
 
 public class alphabetspam {
