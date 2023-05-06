@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/fadingwind
 import java.util.Scanner;
 
 public class fadingwind {
