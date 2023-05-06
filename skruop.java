@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/skruop
 import java.util.Scanner;
 
 public class skruop {
