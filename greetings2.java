@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/greetings2
 import java.util.*;
 
 public class greetings2 {
