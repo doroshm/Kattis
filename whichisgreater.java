@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/whichisgreater
 import java.util.Scanner;
 
 public class whichisgreater {
