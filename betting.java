@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/betting
 import java.util.Scanner;
 
 public class betting {
