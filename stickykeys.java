@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/stickykeys
 import java.util.Scanner;
 
 public class stickykeys {
