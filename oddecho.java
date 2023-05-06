@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/oddecho
 import java.util.Scanner;
 
 public class oddecho {
