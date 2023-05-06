@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/knightpacking
 import java.util.*;
 
 public class knightpacking {
