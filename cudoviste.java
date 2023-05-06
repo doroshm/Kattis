@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/cudoviste
 import java.util.Scanner;
 
 public class cudoviste {
