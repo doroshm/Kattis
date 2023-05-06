@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/ofugsnuid
 import java.util.Scanner;
 
 public class ofugsnuid {
