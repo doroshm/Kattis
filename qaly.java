@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/qaly
 import java.util.*;
 
 public class qaly {
