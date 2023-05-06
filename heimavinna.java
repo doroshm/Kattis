@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/heimavinna
 import java.util.Scanner;
 
 public class heimavinna {
