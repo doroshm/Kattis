@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/ghostleg
 import java.util.Scanner;
 
 public class ghostleg {
