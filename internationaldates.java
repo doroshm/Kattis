@@ -18,3 +18,19 @@ public class internationaldates {
         System.out.println(out);
     }
 }
+
+// public class internationaldates {
+//     public static void main(String[] args) {
+//         Scanner in = new Scanner(System.in).useDelimiter("/");
+//         String out = "";
+//         if (in.nextInt() > 12) {
+//             out = "EU";
+//         } else if (in.nextInt() > 12) {
+//             out = "US";
+//         } else {
+//             out = "either";
+//         }
+//         in.close();
+//         System.out.println(out);
+//     }
+// }
