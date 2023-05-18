@@ -8,7 +8,7 @@ public class skocimis {
         int A = in.nextInt(), B = in.nextInt(), C = in.nextInt();
         in.close();
         int out = B - A - 1;
-        if (C - B - 1 > B - A - 1) {
+        if (C - B - 1 > out) {
             out = C - B - 1;
         }
         System.out.println(out);
